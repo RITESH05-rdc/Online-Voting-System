@@ -1,0 +1,2 @@
+#include "VotingPanel.h"
+
