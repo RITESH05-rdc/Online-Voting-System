@@ -1,5 +1,5 @@
 <img width="343" height="563" alt="image" src="https://github.com/user-attachments/assets/8b03096a-5f53-493a-aed3-8e3cc986d050" />
-<img width="343" height="563" alt="image" src="https://github.com/user-attachments/assets/0545cb0c-9eb8-4fa8-8cb0-73d2808a3224" />
+<img width="343" height="560" alt="image" src="https://github.com/user-attachments/assets/0545cb0c-9eb8-4fa8-8cb0-73d2808a3224" />
 
 # Online-Voting-System
 
